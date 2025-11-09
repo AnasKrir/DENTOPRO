@@ -1,0 +1,4 @@
+ID|Username|Password|FirstName|LastName|Adresse|Email|Telephone|CIN|Role
+1|admin|admin|Omar|Alaoui|xxx|x@gmail.com|06000|AB30|A
+2|ranya|ranya|mme|ranya|xxx|ranya@gmail.com|07000|GI30|S
+3|hamid|hamid|null|null|null|null|null|null|null

@@ -1,0 +1,3 @@
+1|1|NORMAL|2023-10-01|Douleur dentaire|10:00
+2|2|VIP|2023-10-02|Extraction dentaire|14:00
+3|3|VIP|2004-01-12|Soins de carie|10:00

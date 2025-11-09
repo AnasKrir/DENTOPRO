@@ -1,0 +1,3 @@
+ID-PatientID-MedecinTraitantID-DateCreation-StatutPaiement
+1-1-101-2023-10-01-PAYE
+2-2-101-2023-10-02-EN_ATTENTE

@@ -1,0 +1,3 @@
+IdMedicament-Nom-Description-Prix
+1-Paracétamol-Analgésique-5.0
+2-Amoxicilline-Antibiotique-10.0

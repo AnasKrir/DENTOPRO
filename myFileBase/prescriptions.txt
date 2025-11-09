@@ -1,0 +1,3 @@
+IDPrescription-UniteMinAPrendre-UniteMaxAPrendre-ContraintesAlimentation-ContraintesTemps
+1-1-2-Avant les repas-Matin et soir
+2-2-3-Après les repas-Midi et soir

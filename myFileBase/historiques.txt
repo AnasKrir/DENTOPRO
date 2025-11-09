@@ -1,0 +1,3 @@
+IDAntecedent-Libelle-Categorie
+1-Allergie aux pénicillines-AUTRE
+2-Antécédent de chirurgie-MALADIE CHRONIQUE

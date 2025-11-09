@@ -1,0 +1,3 @@
+IDActe-Libelle-PrixDeBase-Categorie
+1-Consultation-200.0-DIAGNOSTIC
+2-Extraction-500.0-CHIRURGIE
